@@ -1,0 +1,24 @@
+.cf7-redirect-wrap .dynamic-url{
+	display: flex;
+	margin-top: 15px;
+}
+
+.cf7-redirect-wrap .divider {
+	margin: 5px 10px 0 10px;
+}
+
+.cf7-redirect-wrap .divider .spinner.is-active {
+	margin: 0; 
+}
+.cf7-redirect-hidden {
+	display: none !important;
+}
+
+.url-textbox {
+	margin-left: 5px;
+}
+
+.enable-redirection {
+    margin-bottom: 15px;
+}
+
